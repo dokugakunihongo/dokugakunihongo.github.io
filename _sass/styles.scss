@@ -1,0 +1,78 @@
+
+#icono{
+    color: #eff0eb;
+}
+.bar{
+  background-color: #2b2d3d;
+}
+.fuente{
+  font-weight: bold;
+}
+.dropdown-menu-dark{
+  background-color: #2b2d3d;
+}
+body {
+    color: #eff0eb;
+    background-color: #23232e;
+  }
+  
+  a {
+    color: #337ab7;
+  }
+  
+  pre {
+    padding: 0.5rem;
+    background-color: #f5f5f5;
+  }
+  
+  h1 {
+    margin-top: 1rem;
+  }
+  
+  header {
+    box-shadow: 0px 2px 18px 0px rgba(252, 251, 251, 0.1);
+    color: #eff0eb;
+  }
+  
+  .page-content p {
+    font-size: 16px;
+  }
+  
+  .page-content li {
+    font-size: 16px;
+    text-align: justify;
+  }
+  
+  pre code {
+    white-space: pre;
+  }
+  
+  code.nowrap {
+    white-space: nowrap ! important;
+  }
+  
+  .table-borderless > tbody > tr > td,
+  .table-borderless > tbody > tr > th,
+  .table-borderless > tfoot > tr > td,
+  .table-borderless > tfoot > tr > th,
+  .table-borderless > thead > tr > td,
+  .table-borderless > thead > tr > th {
+      border: none;
+  }
+  
+  .fa-youtube:hover {
+    color: red;
+  }
+  
+  // Este styling de h2 y h3 permite arreglar la navegación
+  // interna sin necesidad de usar Javascript. (Equivalente a #334.)
+  h2, h3 {
+    padding-top: 60px;
+    margin-top: -60px;
+  }
+  
+  // Hacer más sutil el outline de los bottones de footnotes. No quitar
+  // entero, as per https://a11yproject.com/posts/never-remove-css-outlines.
+  button.littlefoot-footnote__button:focus {
+    outline: 0.5px auto gray;
+  }

@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: page
 tittle: Inicio
+permalink: /bienvenida/
 ---
+
 
 # Inicio
 
@@ -10,6 +12,7 @@ tittle: Inicio
 <br>
 
 En este sitio podrás encontrar recursos que desees para estudiar el idioma **japonés**.
+
 
 <br>
 
