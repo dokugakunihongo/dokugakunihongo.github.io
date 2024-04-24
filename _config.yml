@@ -1,1 +1,40 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Algoritmos y Estructuras de Datos
+description: >
+  Página de la materia Algoritmos y Estructuras de Datos, curso Buchwald.
+  Facultad de Ingeniería, Universidad de Buenos Aires.
+
+baseurl: "/algoritmos"
+entregas: "https://algoritmos-rw.dijkstra.ar/entregas/"
+notas: "https://algoritmos-rw.dijkstra.ar/notas/"
+skel: "https://algoritmos-rw.github.io/descargas"
+algo1: "https://algoritmos1rw.ddns.net/"
+# url: "https://algoritmos-rw.github.io"
+
+theme: minima
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+kramdown:
+  input: GFM
+  footnote_backlink: "&#x21A9;&#xFE0E;"
+  highlighter: rouge
+
+collections:
+  tps:
+    output: true
+    permalink: /:path/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "tps"
+    values:
+      layout: tp
