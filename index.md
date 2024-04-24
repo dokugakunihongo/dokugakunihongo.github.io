@@ -1,16 +1,8 @@
-<head>
-    <link rel="stylesheet" type="text/css" href="style/estilo.css">
-</head>
-
-<div class="navbar">
-    <a href="#inicio">Inicio</a>
-    <a href="#acerca-de">Acerca de</a>
-    <a href="#contacto">Contacto</a>
-    <a href="#blog">Blog</a>
-</div>
-
-
 ---
+layout: default
+title: Página Principal
+---
+
 
 ---
 ## Inicio 
