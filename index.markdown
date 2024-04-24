@@ -1,7 +1,6 @@
 ---
 layout: page
 tittle: Inicio
-permalink: /bienvenida/
 ---
 
 
