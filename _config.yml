@@ -22,7 +22,7 @@ title: DokuGaku Nihongo!
 email: your-email@example.com
 description: # this means to ignore newlines until "baseurl:"
   Este sitio podras encontrar material sobre el idioma japonés.
-baseurl: "/nihongodokugaku" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
