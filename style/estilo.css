@@ -1,3 +1,9 @@
+
+*{
+    background-color: #333;
+    color: #fff;
+}
+
 /* Estilos para la barra de navegación */
 .navbar {
     background-color: #333; /* Color de fondo */
@@ -16,7 +22,3 @@
     text-decoration: underline; /* Subrayar enlaces al pasar el mouse sobre ellos */
 }
 
-
-body{
-    background-color: #333;
-}
