@@ -2,6 +2,7 @@
     <thead>
       <tr>
         <th scope="col">Año</th>
+        <th scope="col">Mes</th>
         <th scope="col">Link(Drive)</th>
       </tr>
     </thead>
@@ -10,6 +11,7 @@
       {% for examenes in include.examenes %}
       <tr>
         <td>{{examenes.ano}}</td>
+        <td>{{examenes.mes}}</td>
         <td><a href="{{examenes.link}}" class="fuente" target="_blank">Link</a></td>
       </tr>
       {% endfor %}
