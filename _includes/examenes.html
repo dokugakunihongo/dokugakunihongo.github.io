@@ -17,9 +17,14 @@
         {% else %}
         <td>--</td>
         {% endif %}
-        <td><a href="{{examenes.link}}" class="fuente" target="_blank">Link</a></td>
+        <td><a href="{{examenes.link}}" class="" target="_blank">Examen
+        </a>
+          {% if examenes.respuestas %}
+            <a href="{{examenes.respuestas}}" class="" target="_blank"> [Respuestas]</a>
+          {% endif %}
+        </td>
         {% if examenes.choukai %}
-        <td><a href="{{examenes.choukai}}" class="fuente" target="_blank">Link</a></td>
+        <td><a href="{{examenes.choukai}}" class="" target="_blank">Audio</a></td>
         {% else %}
         <td>No hay :(</td>
         {% endif %}

@@ -3,7 +3,7 @@ layout: page
 permalink: /examenes/
 ---
 
-# Examenes (試験)
+# Exámenes (試験)
 
 ---
 
@@ -21,7 +21,7 @@ Esta sección ofrece una amplia gama de evaluaciones que cubren desde el nivel N
 
 <br>
 
-  Link a drive de todos los examenes:
+  Link a drive de todos los exámenes:
 
 <br>
 
@@ -36,6 +36,7 @@ Esta sección ofrece una amplia gama de evaluaciones que cubren desde el nivel N
     </div>
     <div id="collapse5" class="collapse show" aria-labelledby="heading5 data-parent=" data-parent="#accordion">
       <div class="card-body">
+          {% include examenes.html titulo="Examenes" examenes=site.data.examenes.n5 %}
       </div>
     </div>
   </div>
@@ -49,6 +50,7 @@ Esta sección ofrece una amplia gama de evaluaciones que cubren desde el nivel N
     </div>
     <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
       <div class="card-body">
+            {% include examenes.html titulo="Examenes" examenes=site.data.examenes.n4 %}
       </div>
     </div>
   </div>
