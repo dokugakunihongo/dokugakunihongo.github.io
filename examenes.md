@@ -21,7 +21,14 @@ Esta sección ofrece una amplia gama de evaluaciones que cubren desde el nivel N
 
 <br>
 
-  Link a drive de todos los exámenes:
+**Hojas paras responder**
+
+{% for youshi in site.data.examenes.youshi %}
+
+- {{youshi.lvl}} <a href="{{youshi.link}}" class="fuente text-info" target="_blank"> [Abrir]</a> 
+
+{% endfor %}
+Link a drive de todos los exámenes:
 
 <br>
 
