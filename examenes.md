@@ -21,12 +21,16 @@ Esta sección ofrece una amplia gama de evaluaciones que cubren desde el nivel N
 
 <br>
 
+  Link a drive de todos los examenes:
+
+<br>
+
 <div id="accordion">
     <div class="card acordeon border">
     <div class="card-header" id="heading5">
       <h5 class="mb-0">
         <button class="btn btn-link fuente n5" data-toggle="collapse" data-target="#collapse5" aria-expanded="true" aria-controls="collapse5">
-          N5 (初心者):
+          N5 (初心者)
         </button>
       </h5>
     </div>
@@ -39,7 +43,7 @@ Esta sección ofrece una amplia gama de evaluaciones que cubren desde el nivel N
     <div class="card-header" id="heading4">
       <h5 class="mb-0">
         <button class="btn btn-link fuente n4" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-          N4 (初心者~中級者):
+          N4 (初心者~中級者)
         </button>
       </h5>
     </div>

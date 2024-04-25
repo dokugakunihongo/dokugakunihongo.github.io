@@ -3,7 +3,8 @@
       <tr>
         <th scope="col">Año</th>
         <th scope="col">Mes</th>
-        <th scope="col">Link(Drive)</th>
+        <th scope="col">Conocimiento</th>
+        <th scope="col">Listening</th>
       </tr>
     </thead>
     
@@ -11,8 +12,17 @@
       {% for examenes in include.examenes %}
       <tr>
         <td>{{examenes.ano}}</td>
+        {% if examenes.mes %}
         <td>{{examenes.mes}}</td>
+        {% else %}
+        <td>--</td>
+        {% endif %}
         <td><a href="{{examenes.link}}" class="fuente" target="_blank">Link</a></td>
+        {% if examenes.choukai %}
+        <td><a href="{{examenes.choukai}}" class="fuente" target="_blank">Link</a></td>
+        {% else %}
+        <td>No hay :(</td>
+        {% endif %}
       </tr>
       {% endfor %}
     </tbody>
