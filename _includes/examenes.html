@@ -1,0 +1,18 @@
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col">Año</th>
+        <th scope="col">Link(Drive)</th>
+      </tr>
+    </thead>
+    
+    <tbody>
+      {% for examenes in include.examenes %}
+      <tr>
+        <td>{{examenes.ano}}</td>
+        <td><a href="{{examenes.link}}" class="fuente" target="_blank">Link</a></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+    
+  </table>

@@ -11,6 +11,85 @@
 .dropdown-menu-dark{
   background-color: #2b2d3d;
 }
+
+.acordeon{
+  background-color: #2b2d3d;
+}
+
+.n5 {
+  background-color: #F3F99D;
+  border-color: #F3F99D;
+  color: #2b2d3d;
+  transition: background-color 0.3s, border-color 0.3s;
+  text-decoration: none;
+}
+
+.n5:hover {
+  background-color: #eff0eb;
+  border-color: #6c757d;
+  color: #333;
+}
+
+.n4 {
+  background-color: #FF6AC1;
+  border-color: #FF6AC1;
+  color: #2b2d3d;
+  transition: background-color 0.3s, border-color 0.3s;
+  text-decoration: none;
+}
+
+.n4:hover {
+  background-color: #eff0eb;
+  border-color: #6c757d;
+  color: #333;
+}
+
+.n3 {
+  background-color: #57C7FF;
+  border-color: #57C7FF;
+  color: #2b2d3d;
+  transition: background-color 0.3s, border-color 0.3s;
+  text-decoration: none;
+}
+
+.n3:hover {
+  background-color: #eff0eb;
+  border-color: #6c757d;
+  color: #333;
+}
+
+.n2 {
+  background-color: #FF5C57;
+  border-color: #FF5C57;
+  color: #2b2d3d;
+  transition: background-color 0.3s, border-color 0.3s;
+  text-decoration: none;
+}
+
+.n2:hover {
+  background-color: #eff0eb;
+  border-color: #6c757d;
+  color: #333;
+}
+
+.jyokyu {
+  background-color: #5AF78E;
+  border-color: #5AF78E;
+  color: #2b2d3d;
+  transition: background-color 0.3s, border-color 0.3s;
+  text-decoration: none;
+}
+
+.jyokyu:hover {
+  background-color: #eff0eb;
+  border-color: #6c757d;
+  color: #333;
+}
+
+
+table{
+  background-color: #eff0eb;
+}
 body {
     color: #eff0eb;
     background-color: #23232e;

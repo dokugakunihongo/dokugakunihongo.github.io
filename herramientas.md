@@ -8,7 +8,7 @@ permalink: /herramientas/
 ---
 
 <br>
-Aquí encontrarás aplicaciones, diccionarios en línea, sitios web y recursos útiles para ayudarte a perfeccionar tu aprendizaje del idioma japonés. Ya sea que estés buscando practicar tus habilidades de lectura, mejorar tu vocabulario o encontrar compañeros de estudio, tenemos todo lo que necesitas para llevar tu aprendizaje al siguiente nivel. Explora nuestras herramientas recomendadas y descubre nuevas formas de dominar el japonés de manera eficiente y divertida. ¡Empecemos!
+Aquí encontrarás aplicaciones, diccionarios en línea, sitios web y recursos útiles para ayudarte a perfeccionar tu aprendizaje del idioma japonés. Ya sea que estés buscando practicar tus habilidades de lectura, mejorar tu vocabulario o encontrar compañeros de estudio, tenemos todo lo que necesitas para llevar tu aprendizaje al siguiente nivel. Explora nuestras herramientas recomendadas y descubre nuevas formas de dominar el japonés de manera eficiente y divertida.
 
 <br>
 
