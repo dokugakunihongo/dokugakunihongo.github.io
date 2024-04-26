@@ -75,3 +75,21 @@ n4:
     audio: https://drive.google.com/drive/folders/1mY9pVPQwtmLXD9eWEq5ZDPL08XGwUFCx?usp=drive_link
     img: /img/gaido.jpg
   
+n3: 
+  - nombre: 日本語総まとめ Pack 
+    descripcion: Pack completo de libros del N3 del Soumatome.
+    idioma: 日本語
+    img: /img/soumatome.jpg
+    link: https://drive.google.com/drive/folders/10SWo0cRBf_G2cT3Sg7rMm3OhnMPYpPje?usp=drive_link
+
+  - nombre: 新完全マスター Pack
+    descripcion: Pack completo de libros del N3 del Shinkanzen master
+    idioma: 日本語
+    link: https://drive.google.com/drive/folders/1bJBcyb0KlZw8hQv175lRDbnxuih8zJ2A?usp=drive_link
+    img: /img/shinkanzen.jpg
+
+  - nombre: 日本語能力試験N3予想問題集
+    descripcion: Ejercicios del JLPT para practicar
+    idioma: 日本語
+    link: https://drive.google.com/drive/folders/1SwW6sLcLpLjxCDYsM_gOTpBIDp99AiRb?usp=drive_link
+    img: /img/n3mondaishuu.jpg
