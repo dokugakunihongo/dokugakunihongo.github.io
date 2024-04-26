@@ -40,9 +40,3 @@ En el idioma japonés se clasifican los niveles de la siguiente manera:
 Si no tienes ninguna noción de como empezar a estudiar, primero tienes que aprender el **hiragana** y **katana**. Luego de habertelo aprendido puedes empezar por los recuros de **N5**. Hay mucho material para nivel básico.
 
 
-<div class="container" align="center">
-    <img width="20%" class="me-4" src="img/hiragana.jpg">
-    <img width="20%" src="img/katakana.jpg">
-
-</div>
-

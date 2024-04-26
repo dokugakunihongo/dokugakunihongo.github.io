@@ -1,0 +1,32 @@
+
+ex:
+  kana:
+    descripcion: Archivo para imprimir y practicar los hiragana y katakana.
+    link: https://drive.google.com/file/d/19iQDzX9lcVzg-iWbq9okZhJRWZ7yEWgm/view?usp=drive_link
+  
+  particlework:
+    descripcion: Libro con gran variedad de gramática de todos los niveles.
+    link: https://drive.google.com/file/d/1xJl0EXIG-ahWGGYTsMKJR9NPbNX6yQ4y/view?usp=drive_link
+    idioma: Inglés
+
+n5: 
+    - nombre: Minna no Nihongo I みんなの日本語 I
+      descripcion: Libro de texto popular que presenta gramática y vocabulario básicos, con un enfoque en la comunicación práctica.
+      link: https://drive.google.com/file/d/1wLboaYyWHkFZWTK22ZXZlo_F_sR_HC1O/view?usp=drive_link
+      idioma: Español
+      workbook: https://drive.google.com/file/d/1OLE5KYgafjnA3LbEPFVB8sWDvoRpW4Xd/view?usp=drive_link
+      img: /img/minna1.jpg
+
+    - nombre: Genki I - Integred Elementary Japanese
+      descripcion: Un libro de texto popular para principiantes que cubre gramática, vocabulario y kanji básicos.
+      link: https://drive.google.com/file/d/1QIVWT8lkmI6JQlarpFObq9qq-cVUseom/view?usp=drive_link
+      idioma: Inglés
+      workbook: https://drive.google.com/file/d/1ZQkOr-fLCyv6UqnyPBWG3Cc5P5L0sWlK/view?usp=drive_link
+      respuestas: https://drive.google.com/file/d/10E6kABdCNvmTh4oEGnbVutPCSn5s35n4/view?usp=drive_link
+      img: /img/genki1.jpg
+
+    - nombre: Basic Kanji Book 1,2 
+      descripcion: Libro de texto para estudiar Kanjis básicos y su origen. 
+      link: https://drive.google.com/file/d/1jyFR-xWGd1TytHxa1UQ3XdrfTJjjITYL/view?usp=drive_link
+      idioma: Inglés
+      img: /img/basickanji.jpg

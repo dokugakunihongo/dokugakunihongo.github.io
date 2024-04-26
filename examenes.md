@@ -5,11 +5,24 @@ permalink: /examenes/
 
 # Exámenes (試験)
 
+<br>
+
 ---
 
 <br>
 
-Esta sección ofrece una amplia gama de evaluaciones que cubren desde el nivel N5 hasta el N1 del JLPT, proporcionando una medida confiable y reconocida internacionalmente de la competencia en japonés. Independientemente de tu nivel actual de habilidad lingüística, estos exámenes te brindan la oportunidad de evaluar tu progreso y establecer metas específicas para tu desarrollo futuro.
+ Estos exámenes anteriores son recursos útiles para aquellos que desean practicar y prepararse para el JLPT, ya sea comenzando desde los niveles básicos o aspirando a niveles más avanzados de competencia en japonés.
+
+<br>
+
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-6">
+      <img src="/img/jlpt.jpg" alt="Descripción de la imagen" class="img-fluid">
+    </div>
+  </div>
+</div>
+
 
 <br>
 
