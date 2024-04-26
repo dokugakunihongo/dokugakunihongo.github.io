@@ -41,7 +41,10 @@ permalink: /examenes/
 - {{youshi.lvl}} <a href="{{youshi.link}}" class="fuente text-info" target="_blank"> [Abrir]</a> 
 
 {% endfor %}
-Link a drive de todos los exámenes:
+
+<br>
+
+#### Link a drive de todos los exámenes:
 
 <br>
 
@@ -50,7 +53,7 @@ Link a drive de todos los exámenes:
     <div class="card-header" id="heading5">
       <h5 class="mb-0">
         <button class="btn btn-link fuente n5" data-toggle="collapse" data-target="#collapse5" aria-expanded="true" aria-controls="collapse5">
-          N5 (初心者)
+          N5 (初級者)
         </button>
       </h5>
     </div>
@@ -64,7 +67,7 @@ Link a drive de todos los exámenes:
     <div class="card-header" id="heading4">
       <h5 class="mb-0">
         <button class="btn btn-link fuente n4" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-          N4 (初心者~中級者)
+          N4 (初級者~中級者)
         </button>
       </h5>
     </div>

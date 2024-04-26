@@ -30,3 +30,48 @@ n5:
       link: https://drive.google.com/file/d/1jyFR-xWGd1TytHxa1UQ3XdrfTJjjITYL/view?usp=drive_link
       idioma: Inglés
       img: /img/basickanji.jpg
+
+    - nombre: Ejercicios de examenes oficiales del JLPT 日本語能力試験公式問題集 N5
+      descripcion: Libro que contiene audios y ejercicios del JLPT N5.
+      idioma: 日本語
+      link: https://drive.google.com/file/d/1N0tvugBZCA_bvCSvUYDxKkkg0ZLVOm8y/view?usp=drive_link
+      img: /img/n5mondaishuu.jpg
+      audio: https://drive.google.com/drive/folders/10CIr7D-G_epognJ7iit4e_C3YWNK1aB0?usp=drive_link
+
+    - nombre: Nueva guidebook para ejercicios del JLPT N5 y N4 新しい「日本語能力試験」ガイドブック 概要版と問題例集 N4、N5編
+      descripcion: Ejercicios para resolver del N5 y N4.
+      idioma: 日本語
+      link: https://drive.google.com/file/d/1tpDmWYRouT5D62T3DRJCpTO2rZJz9xeZ/view?usp=drive_link
+      audio: https://drive.google.com/drive/folders/1mY9pVPQwtmLXD9eWEq5ZDPL08XGwUFCx?usp=drive_link
+      img: /img/gaido.jpg
+
+n4: 
+  - nombre: Minna no Nihongo II みんなの日本語 II
+    descripcion: Libro de texto popular que presenta gramática y vocabulario básicos, con un enfoque en la comunicación práctica.
+    idioma: Español
+    link: https://drive.google.com/file/d/1a-cm5lhtRZBbgD9m3hi5EjCUhmqj036a/view?usp=drive_link
+    workbook: https://drive.google.com/file/d/1iBNI4QGJSFkPjg8i6xmJ7yda-ofxYXdI/view?usp=drive_link
+    respuestas: https://drive.google.com/file/d/1zYTBAXkJwCroHw1CxIBPJ8NUYJGbs3N9/view?usp=drive_link
+    img: /img/minna2.jpg
+
+  - nombre: Genki II
+    descripcion: Un libro de texto popular para principiantes que cubre gramática, vocabulario y kanji básicos.
+    idioma: Inglés
+    link: https://drive.google.com/file/d/13krQJBIrF4N7061_tQw1XDvxRih-utF0/view?usp=drive_link
+    workbook: https://drive.google.com/file/d/1ZQkOr-fLCyv6UqnyPBWG3Cc5P5L0sWlK/view?usp=drive_link
+    img: /img/genki2.jpg
+
+  - nombre: Ejercicios de examenes oficiales del JLPT 日本語能力試験公式問題集 N4
+    descripcion: Libro que contiene audios y ejercicios del JLPT N4.
+    idioma: 日本語
+    link: https://drive.google.com/file/d/1hK4hrCDa888-oIvDvSQUzXcnjnnqjwIN/view?usp=drive_link
+    audio: https://drive.google.com/drive/folders/1AcgMK5800IiLphQwuk19xe49YNaIsM75?usp=drive_link
+    img: /img/n4mondaishuu.jpg
+
+  - nombre: Nueva guidebook para ejercicios del JLPT N5 y N4 新しい「日本語能力試験」ガイドブック 概要版と問題例集 N4、N5編
+    descripcion: Ejercicios para resolver del N5 y N4.
+    idioma: 日本語
+    link: https://drive.google.com/file/d/1tpDmWYRouT5D62T3DRJCpTO2rZJz9xeZ/view?usp=drive_link
+    audio: https://drive.google.com/drive/folders/1mY9pVPQwtmLXD9eWEq5ZDPL08XGwUFCx?usp=drive_link
+    img: /img/gaido.jpg
+  
