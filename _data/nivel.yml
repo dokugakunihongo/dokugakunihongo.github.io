@@ -1,13 +1,20 @@
 
 ex:
-  kana:
+  - nombre: 
     descripcion: Archivo para imprimir y practicar los hiragana y katakana.
     link: https://drive.google.com/file/d/19iQDzX9lcVzg-iWbq9okZhJRWZ7yEWgm/view?usp=drive_link
   
-  particlework:
+  - nombre: Japanase particle workbook
     descripcion: Libro con gran variedad de gramática de todos los niveles.
     link: https://drive.google.com/file/d/1xJl0EXIG-ahWGGYTsMKJR9NPbNX6yQ4y/view?usp=drive_link
     idioma: Inglés
+    img: /img/particle.jpg
+
+  - nombre: 20日で合格！N1
+    descripcion: Ejercicios del N1.
+    link: https://drive.google.com/file/d/1EimaMxwmKWkxDh3g0ACxtITk2cbuJ4No/view?usp=drive_link
+    idioma: 日本語
+    img: /img/20d.jpg
 
 n5: 
     - nombre: Minna no Nihongo I みんなの日本語 I
@@ -93,3 +100,41 @@ n3:
     idioma: 日本語
     link: https://drive.google.com/drive/folders/1SwW6sLcLpLjxCDYsM_gOTpBIDp99AiRb?usp=drive_link
     img: /img/n3mondaishuu.jpg
+
+n2: 
+  - nombre: 日本語総まとめ Pack 
+    descripcion: Pack completo de libros del N2 del Soumatome.
+    idioma: 日本語
+    img: /img/soumatome2.jpg
+    link: https://drive.google.com/drive/folders/1iwp60rZmT7vL5fQ0yF9K_v1J4DUobHhy?usp=drive_link
+
+  - nombre: 新完全マスター Pack
+    descripcion: Pack completo de libros del N2 del Shinkanzen master
+    idioma: 日本語
+    link: https://drive.google.com/drive/folders/13VcGB8t92iH7hPlLFqB0BZo8SA-Zk5Rh?usp=drive_link
+    img: /img/shikanzen2.jpg
+
+  - nombre: 日本語能力試験N2予想問題集
+    descripcion: Ejercicios del JLPT N2 para practicar
+    idioma: 日本語
+    link: https://drive.google.com/drive/folders/19E2uBx5kTPYVsECxuaSiUgglLacaYalB?usp=drive_link
+    img: /img/n2mondaishuu.jpg
+
+n1: 
+  - nombre: 日本語総まとめ Pack 
+    descripcion: Pack completo de libros del N1 del Soumatome.
+    idioma: 日本語
+    img: /img/soumatome1.jpg
+    link: https://drive.google.com/drive/folders/1_FHvZrJtoQrREXeX1m1yGZsY1nkOQ0jd?usp=drive_link
+
+  - nombre: 新完全マスター Pack
+    descripcion: Pack completo de libros del N1 del Shinkanzen master
+    idioma: 日本語
+    link: https://drive.google.com/drive/folders/1SNQcVuEzG3dyhBWDvzZEPjsJ4bmpA3sn?usp=drive_link
+    img: /img/shikanzen1.jpg
+
+  - nombre: 日本語能力試験N1予想問題集
+    descripcion: Ejercicios del JLPT N1 para practicar
+    idioma: 日本語
+    link: https://drive.google.com/file/d/1h-9bTEEu1yvdA-TiKId3sULUIE_gS3jv/view?usp=drive_link
+    img: /img/n1mondaishuu.jpg
