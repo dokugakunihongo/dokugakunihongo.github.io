@@ -21,7 +21,7 @@
 title: DokuGaku Nihongo! 独学日本語!
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  En este sitio podrás encontrar material sobre el idioma japonés desde el N5 hasta el N1
+  Aprende japonés gratis. En este sitio podrás encontrar material sobre el idioma japonés desde el N5 hasta el N1
   Básico-Avanzado.
 # the subpath of your site, e.g. /blog
 url: "/dokugakunihongo" # the base hostname & protocol for your site, e.g. http://example.com
