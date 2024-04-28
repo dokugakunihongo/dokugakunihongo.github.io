@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'es' }}">
-  {% if site.google_analytics and jekyll.environment == 'production' %}
-  {% include analytics.html %}
-  {% endif %}
-  {% include head.html %}
 
+  {% include head.html %}
   <body>
     {% include header.html %}
 
