@@ -56,3 +56,30 @@ Si estás dando tus primeros pasos en el estudio del japonés y no sabes por dó
         <img width="70%" src="/img/luffy.jpeg" class="img-fluid">
     </div>
 </div>
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header bg-dark">
+        <h5 class="modal-title text-warning fuente" id="exampleModalLabel">¡Aviso!</h5>
+      </div>
+      <div class="modal-body bg-dark">
+        Es posible que falten algunos libros, listening o audios. Si posees alguno de los que faltan contactame a mi discord o correo electronico. :)
+      </div>
+      <div class="modal-footer bg-dark">
+        <button type="button" class="btn btn-primary" data-dismiss="modal" onclick="cerrarModal()" >Cerrar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function(){
+      $('#exampleModal').modal('show');
+    });
+    function cerrarModal() {
+      $('#exampleModal').modal('hide');
+    }
+</script>
+
