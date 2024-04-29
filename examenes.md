@@ -34,7 +34,7 @@ permalink: /examenes/
 
 <br>
 
-**Hojas paras responder**
+**Hojas para responder**
 
 {% for youshi in site.data.examenes.youshi %}
 

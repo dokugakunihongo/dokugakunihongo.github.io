@@ -39,23 +39,23 @@ Libros extras que se han recopilado a lo largo del tiempo.
 
 **Recursos**:
 
-- Libro <a href="{{libro.link}}" class="text-info" target="_blank">[Abrir] </a>
+- Libro <a href="{{ '/view/' | relative_url }}?dato={{libro.link}}" class="text-info" target="_blank">[Abrir] </a>
 
 {% if libro.workbook %}
 
-- Workbook <a href="{{libro.workbook}}" class="text-info" target="_blank">[Abrir] </a>
+- Workbook <a href="{{ '/view/' | relative_url }}?dato={{libro.workbook}}" class="text-info" target="_blank">[Abrir] </a>
 
 {% endif %}
 
 {% if libro.respuestas %}
 
-- Respuestas <a href="{{libro.respuestas}}" class="text-info" target="_blank">[Abrir] </a>
+- Respuestas <a href="{{ '/view/' | relative_url }}?dato={{libro.respuestas}}" class="text-info" target="_blank">[Abrir] </a>
 
 {% endif %}
 
 {% if libro.audio %}
 
-- Audio <a href="{{libro.audio}}" class="text-info" target="_blank">[Abrir] </a>
+- Audio <a href="{{ '/view/' | relative_url }}?dato={{libro.audio}}" class="text-info" target="_blank">[Abrir] </a>
 
 {% endif %}
 

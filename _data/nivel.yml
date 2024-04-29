@@ -2,84 +2,84 @@
 ex:
   - nombre: 
     descripcion: Archivo para imprimir y practicar los hiragana y katakana.
-    link: https://drive.google.com/file/d/19iQDzX9lcVzg-iWbq9okZhJRWZ7yEWgm/view?usp=drive_link
+    link: /d/19iQDzX9lcVzg-iWbq9okZhJRWZ7yEWgm 
   
   - nombre: Japanase particle workbook
     descripcion: Libro con gran variedad de gramática de todos los niveles.
-    link: https://drive.google.com/file/d/1xJl0EXIG-ahWGGYTsMKJR9NPbNX6yQ4y/view?usp=drive_link
+    link: /d/1xJl0EXIG-ahWGGYTsMKJR9NPbNX6yQ4y 
     idioma: Inglés
     img: /img/particle.jpg
 
   - nombre: 20日で合格！N1
     descripcion: Ejercicios del N1.
-    link: https://drive.google.com/file/d/1EimaMxwmKWkxDh3g0ACxtITk2cbuJ4No/view?usp=drive_link
+    link: /d/1EimaMxwmKWkxDh3g0ACxtITk2cbuJ4No 
     idioma: 日本語
     img: /img/20d.jpg
 
 n5: 
     - nombre: Minna no Nihongo I みんなの日本語 I
       descripcion: Libro de texto popular que presenta gramática y vocabulario básicos, con un enfoque en la comunicación práctica.
-      link: https://drive.google.com/file/d/1wLboaYyWHkFZWTK22ZXZlo_F_sR_HC1O/view?usp=drive_link
+      link: /d/1wLboaYyWHkFZWTK22ZXZlo_F_sR_HC1O 
       idioma: Español
-      workbook: https://drive.google.com/file/d/1OLE5KYgafjnA3LbEPFVB8sWDvoRpW4Xd/view?usp=drive_link
+      workbook: /d/1OLE5KYgafjnA3LbEPFVB8sWDvoRpW4Xd 
       img: /img/minna1.jpg
 
     - nombre: Genki I - Integred Elementary Japanese
       descripcion: Un libro de texto popular para principiantes que cubre gramática, vocabulario y kanji básicos.
-      link: https://drive.google.com/file/d/1QIVWT8lkmI6JQlarpFObq9qq-cVUseom/view?usp=drive_link
+      link: /d/1QIVWT8lkmI6JQlarpFObq9qq-cVUseom 
       idioma: Inglés
-      workbook: https://drive.google.com/file/d/1ZQkOr-fLCyv6UqnyPBWG3Cc5P5L0sWlK/view?usp=drive_link
-      respuestas: https://drive.google.com/file/d/10E6kABdCNvmTh4oEGnbVutPCSn5s35n4/view?usp=drive_link
+      workbook: /d/1ZQkOr-fLCyv6UqnyPBWG3Cc5P5L0sWlK 
+      respuestas: /d/10E6kABdCNvmTh4oEGnbVutPCSn5s35n4 
       img: /img/genki1.jpg
 
     - nombre: Basic Kanji Book 1,2 
       descripcion: Libro de texto para estudiar Kanjis básicos y su origen. 
-      link: https://drive.google.com/file/d/1jyFR-xWGd1TytHxa1UQ3XdrfTJjjITYL/view?usp=drive_link
+      link: /d/1jyFR-xWGd1TytHxa1UQ3XdrfTJjjITYL 
       idioma: Inglés
       img: /img/basickanji.jpg
 
     - nombre: Ejercicios de examenes oficiales del JLPT 日本語能力試験公式問題集 N5
       descripcion: Libro que contiene audios y ejercicios del JLPT N5.
       idioma: 日本語
-      link: https://drive.google.com/file/d/1N0tvugBZCA_bvCSvUYDxKkkg0ZLVOm8y/view?usp=drive_link
+      link: /d/1N0tvugBZCA_bvCSvUYDxKkkg0ZLVOm8y 
       img: /img/n5mondaishuu.jpg
-      audio: https://drive.google.com/drive/folders/10CIr7D-G_epognJ7iit4e_C3YWNK1aB0?usp=drive_link
+      audio: 10CIr7D-G_epognJ7iit4e_C3YWNK1aB0  
 
     - nombre: Nueva guidebook para ejercicios del JLPT N5 y N4 新しい「日本語能力試験」ガイドブック 概要版と問題例集 N4、N5編
       descripcion: Ejercicios para resolver del N5 y N4.
       idioma: 日本語
-      link: https://drive.google.com/file/d/1tpDmWYRouT5D62T3DRJCpTO2rZJz9xeZ/view?usp=drive_link
-      audio: https://drive.google.com/drive/folders/1mY9pVPQwtmLXD9eWEq5ZDPL08XGwUFCx?usp=drive_link
+      link: /d/1tpDmWYRouT5D62T3DRJCpTO2rZJz9xeZ 
+      audio: 1mY9pVPQwtmLXD9eWEq5ZDPL08XGwUFCx  
       img: /img/gaido.jpg
 
 n4: 
   - nombre: Minna no Nihongo II みんなの日本語 II
     descripcion: Libro de texto popular que presenta gramática y vocabulario básicos, con un enfoque en la comunicación práctica.
     idioma: Español
-    link: https://drive.google.com/file/d/1a-cm5lhtRZBbgD9m3hi5EjCUhmqj036a/view?usp=drive_link
-    workbook: https://drive.google.com/file/d/1iBNI4QGJSFkPjg8i6xmJ7yda-ofxYXdI/view?usp=drive_link
-    respuestas: https://drive.google.com/file/d/1zYTBAXkJwCroHw1CxIBPJ8NUYJGbs3N9/view?usp=drive_link
+    link: /d/1a-cm5lhtRZBbgD9m3hi5EjCUhmqj036a 
+    workbook: /d/1iBNI4QGJSFkPjg8i6xmJ7yda-ofxYXdI 
+    respuestas: /d/1zYTBAXkJwCroHw1CxIBPJ8NUYJGbs3N9 
     img: /img/minna2.jpg
 
   - nombre: Genki II
     descripcion: Un libro de texto popular para principiantes que cubre gramática, vocabulario y kanji básicos.
     idioma: Inglés
-    link: https://drive.google.com/file/d/13krQJBIrF4N7061_tQw1XDvxRih-utF0/view?usp=drive_link
-    workbook: https://drive.google.com/file/d/1ZQkOr-fLCyv6UqnyPBWG3Cc5P5L0sWlK/view?usp=drive_link
+    link: /d/13krQJBIrF4N7061_tQw1XDvxRih-utF0 
+    workbook: /d/1ZQkOr-fLCyv6UqnyPBWG3Cc5P5L0sWlK 
     img: /img/genki2.jpg
 
   - nombre: Ejercicios de examenes oficiales del JLPT 日本語能力試験公式問題集 N4
     descripcion: Libro que contiene audios y ejercicios del JLPT N4.
     idioma: 日本語
-    link: https://drive.google.com/file/d/1hK4hrCDa888-oIvDvSQUzXcnjnnqjwIN/view?usp=drive_link
-    audio: https://drive.google.com/drive/folders/1AcgMK5800IiLphQwuk19xe49YNaIsM75?usp=drive_link
+    link: /d/1hK4hrCDa888-oIvDvSQUzXcnjnnqjwIN 
+    audio: 1AcgMK5800IiLphQwuk19xe49YNaIsM75 
     img: /img/n4mondaishuu.jpg
 
   - nombre: Nueva guidebook para ejercicios del JLPT N5 y N4 新しい「日本語能力試験」ガイドブック 概要版と問題例集 N4、N5編
     descripcion: Ejercicios para resolver del N5 y N4.
     idioma: 日本語
-    link: https://drive.google.com/file/d/1tpDmWYRouT5D62T3DRJCpTO2rZJz9xeZ/view?usp=drive_link
-    audio: https://drive.google.com/drive/folders/1mY9pVPQwtmLXD9eWEq5ZDPL08XGwUFCx?usp=drive_link
+    link: /d/1tpDmWYRouT5D62T3DRJCpTO2rZJz9xeZ 
+    audio: 1mY9pVPQwtmLXD9eWEq5ZDPL08XGwUFCx  
     img: /img/gaido.jpg
   
 n3: 
@@ -87,18 +87,18 @@ n3:
     descripcion: Pack completo de libros del N3 del Soumatome.
     idioma: 日本語
     img: /img/soumatome.jpg
-    link: https://drive.google.com/drive/folders/10SWo0cRBf_G2cT3Sg7rMm3OhnMPYpPje?usp=drive_link
+    link: 10SWo0cRBf_G2cT3Sg7rMm3OhnMPYpPje  
 
   - nombre: 新完全マスター Pack
     descripcion: Pack completo de libros del N3 del Shinkanzen master
     idioma: 日本語
-    link: https://drive.google.com/drive/folders/1bJBcyb0KlZw8hQv175lRDbnxuih8zJ2A?usp=drive_link
+    link: 1bJBcyb0KlZw8hQv175lRDbnxuih8zJ2A  
     img: /img/shinkanzen.jpg
 
   - nombre: 日本語能力試験N3予想問題集
     descripcion: Ejercicios del JLPT para practicar
     idioma: 日本語
-    link: https://drive.google.com/drive/folders/1SwW6sLcLpLjxCDYsM_gOTpBIDp99AiRb?usp=drive_link
+    link: 1SwW6sLcLpLjxCDYsM_gOTpBIDp99AiRb  
     img: /img/n3mondaishuu.jpg
 
 n2: 
@@ -106,18 +106,18 @@ n2:
     descripcion: Pack completo de libros del N2 del Soumatome.
     idioma: 日本語
     img: /img/soumatome2.jpg
-    link: https://drive.google.com/drive/folders/1iwp60rZmT7vL5fQ0yF9K_v1J4DUobHhy?usp=drive_link
+    link: 1iwp60rZmT7vL5fQ0yF9K_v1J4DUobHhy  
 
   - nombre: 新完全マスター Pack
     descripcion: Pack completo de libros del N2 del Shinkanzen master
     idioma: 日本語
-    link: https://drive.google.com/drive/folders/13VcGB8t92iH7hPlLFqB0BZo8SA-Zk5Rh?usp=drive_link
+    link: 13VcGB8t92iH7hPlLFqB0BZo8SA-Zk5Rh  
     img: /img/shikanzen2.jpg
 
   - nombre: 日本語能力試験N2予想問題集
     descripcion: Ejercicios del JLPT N2 para practicar
     idioma: 日本語
-    link: https://drive.google.com/drive/folders/19E2uBx5kTPYVsECxuaSiUgglLacaYalB?usp=drive_link
+    link: 1FVdXhb2J2EWnNc_y6oqEVNyCRse63b8n
     img: /img/n2mondaishuu.jpg
 
 n1: 
@@ -125,16 +125,16 @@ n1:
     descripcion: Pack completo de libros del N1 del Soumatome.
     idioma: 日本語
     img: /img/soumatome1.jpg
-    link: https://drive.google.com/drive/folders/1_FHvZrJtoQrREXeX1m1yGZsY1nkOQ0jd?usp=drive_link
+    link: 1_FHvZrJtoQrREXeX1m1yGZsY1nkOQ0jd  
 
   - nombre: 新完全マスター Pack
     descripcion: Pack completo de libros del N1 del Shinkanzen master
     idioma: 日本語
-    link: https://drive.google.com/drive/folders/1SNQcVuEzG3dyhBWDvzZEPjsJ4bmpA3sn?usp=drive_link
+    link: 1SNQcVuEzG3dyhBWDvzZEPjsJ4bmpA3sn  
     img: /img/shikanzen1.jpg
 
   - nombre: 日本語能力試験N1予想問題集
     descripcion: Ejercicios del JLPT N1 para practicar
     idioma: 日本語
-    link: https://drive.google.com/file/d/1h-9bTEEu1yvdA-TiKId3sULUIE_gS3jv/view?usp=drive_link
+    link: /d/1h-9bTEEu1yvdA-TiKId3sULUIE_gS3jv 
     img: /img/n1mondaishuu.jpg
