@@ -3,7 +3,11 @@ layout: viewer
 permalink: /view/
 ---
 
+### *View*
+{: style="color:gray; font-size: 80%; text-align: center;"}
 <iframe class="bg-light" src="" width="100%" height="900" allow="autoplay" id="drive"></iframe>
+
+
 <script>
     document.addEventListener('DOMContentLoaded', function() {
         function obtenerParametro(nombre) {
