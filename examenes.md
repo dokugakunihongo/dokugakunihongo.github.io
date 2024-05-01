@@ -3,7 +3,7 @@ layout: page
 permalink: /examenes/
 ---
 
-# Exámenes (試験)
+# Exámenes del JLPT Noken (日本語能力試験)
 
 <br>
 
