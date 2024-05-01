@@ -65,6 +65,8 @@ Si estás dando tus primeros pasos en el estudio del japonés y no sabes por dó
       </div>
       <div class="modal-body bg-dark">
         Es posible que falten algunos libros, listening o audios. Si posees alguno de los que faltan contactame a mi discord o correo electronico. :)
+        <br>
+        ディスコードサーバーでみんなと日本語を話しましょう！
       </div>
       <div class="modal-footer bg-dark">
         <button type="button" class="btn btn-primary" data-dismiss="modal" onclick="cerrarModal()" >Cerrar</button>
