@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: DokuGaku Nihongo! 独学日本語!
+title: DokuGaku Nihongo! 独学日本語! Estudia Japonés autodidacta GRATIS, Examenes anteriores del JLPT Gratis
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Aprende japonés gratis. En este sitio podrás encontrar material sobre el idioma japonés desde el N5 hasta el N1
