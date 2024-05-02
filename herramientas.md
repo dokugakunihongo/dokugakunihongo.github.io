@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /herramientas/
+comments: true
 ---
 
 # Herramientas (道具)
@@ -136,3 +137,33 @@ Juegos muy útiles para  el aprendizaje.
 <br>
 
 - <a class="fuente text-info" href="#" target="_blank">VRCHAT</a> En **VRCHAT** puedes encontrarte a muchos nativos japoneses y compartir con ellos. 
+
+
+<br><br><br><br><br><br><br><br><br>
+
+{% if page.comments %} 
+<div id="disqus_thread"></div>
+<script>
+        /**
+        *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+        *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+        /*
+        var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        };
+        */
+    var disqus_config = function () {
+        this.page.url = 'https://dokugakunihongo.github.io/';
+        this.page.identifier = '';
+        this.page.title = '';
+    };
+    (function() { // DON'T EDIT BELOW THIS LINE
+      var d = document, s = d.createElement('script');
+      s.src = 'https://dokugaku-nihongo.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %} 
