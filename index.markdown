@@ -3,7 +3,7 @@ layout: page
 tittle: Inicio
 ---
 
---- 
+---
 
 <br>
 
@@ -29,18 +29,18 @@ Este espacio fue creado por y para la comunidad con el propósito de ofrecer rec
 
 En japonés, los niveles se clasifican de la siguiente manera:
 
-- N5 (Básico) 
+- N5 (Básico)
 - N4 (Básico-intermedio)
 - N3 (Intermedio)
 - N2 (Intermedio-avanzado)
 - N1 (Avanzado)
 <br>
+
 <br>
 
 ---
 
 <br>
-
 
 ## ¿Cómo empezar a estudiar?
 
@@ -57,24 +57,6 @@ Si estás dando tus primeros pasos en el estudio del japonés y no sabes por dó
     </div>
 </div>
 
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header bg-dark">
-        <h5 class="modal-title text-warning fuente" id="exampleModalLabel">¡Aviso!</h5>
-      </div>
-      <div class="modal-body bg-dark">
-        Es posible que falten algunos libros, listening o audios. Si posees alguno de los que faltan contactame a mi discord o correo electronico. :)
-        <br>
-        ディスコードサーバーでみんなと日本語を話しましょう！
-      </div>
-      <div class="modal-footer bg-dark">
-        <button type="button" class="btn btn-primary" data-dismiss="modal" onclick="cerrarModal()" >Cerrar</button>
-      </div>
-    </div>
-  </div>
-</div>
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
     $(document).ready(function(){
@@ -84,4 +66,3 @@ Si estás dando tus primeros pasos en el estudio del japonés y no sabes por dó
       $('#exampleModal').modal('hide');
     }
 </script>
-
