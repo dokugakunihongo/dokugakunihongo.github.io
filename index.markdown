@@ -5,7 +5,7 @@ title: Aprende Japonés Gratis | DokuGaku Nihongo
 
 ---
 
-## DokuGaku Nihongo! 独学日本語
+# DokuGaku Nihongo! 独学日本語
 
 Bienvenido a DokuGaku Nihongo (独学日本語), un espacio dedicado al aprendizaje del japonés autodidacta y gratuito. Aquí encontrarás recursos para estudiar japonés desde el nivel principiante hasta avanzado, incluyendo material para el JLPT N5, N4, N3, N2 y N1.
 
@@ -19,7 +19,9 @@ Tanto si estás comenzando con el hiragana y el katakana como si te estás prepa
     </div>
 </div>
 
-## Niveles del JLPT
+<br>
+
+### Niveles del JLPT
 
 El Japanese Language Proficiency Test (JLPT) es el examen oficial de competencia del idioma japonés y está dividido en cinco niveles:
 
@@ -31,7 +33,9 @@ El Japanese Language Proficiency Test (JLPT) es el examen oficial de competencia
 
 En DokuGaku Nihongo encontrarás recursos gratuitos para cada uno de estos niveles, incluyendo vocabulario, gramática, kanjis, ejercicios y material de apoyo para complementar tu estudio del japonés.
 
-## ¿Cómo empezar a estudiar japonés?
+<br>
+
+### ¿Cómo empezar a estudiar japonés?
 
 Si es tu primera vez estudiando japonés, te recomendamos seguir el siguiente orden:
 
