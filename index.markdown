@@ -1,68 +1,53 @@
 ---
 layout: page
-tittle: Inicio
+title: Aprende Japonés Gratis | DokuGaku Nihongo
 ---
 
 ---
 
-<br>
+Bienvenido a DokuGaku Nihongo (独学日本語), un espacio dedicado al aprendizaje del japonés autodidacta y gratuito. Aquí encontrarás recursos para estudiar japonés desde el nivel principiante hasta avanzado, incluyendo material para el JLPT N5, N4, N3, N2 y N1.
 
-Este espacio fue creado por y para la comunidad con el propósito de ofrecer recursos y herramientas sobre el idioma **japonés** en español. Nuestra misión es proporcionar un lugar donde los entusiastas del japonés puedan encontrar información útil, compartir experiencias, y aprender juntos de manera colaborativa. Ya seas un principiante curioso o un estudiante avanzado, ¡estás en el lugar adecuado para explorar y expandir tus conocimientos sobre esta fascinante lengua y cultura! Nos emociona tenerte aquí y esperamos que encuentres todo lo que necesitas para tu viaje de aprendizaje del **japonés**.
+Nuestra misión es ofrecer contenido de calidad en español para ayudarte a aprender japonés de forma sencilla y accesible. Disponemos de guías de estudio, ejercicios, recursos gratuitos, material para la preparación del JLPT y recomendaciones para mejorar tus conocimientos del idioma japonés.
 
-<br>
+Tanto si estás comenzando con el hiragana y el katakana como si te estás preparando para el JLPT N1, esperamos acompañarte durante todo tu proceso de aprendizaje.
 
 <div class="row justify-content-center">
     <div class="col-md-6">
-        <img width="70%" src="/img/nihongo.jpg" class="img-fluid">
+        <img width="70%" src="/img/nihongo.jpg" class="img-fluid" alt="Aprender japonés gratis">
     </div>
 </div>
 
-<br>
+## Niveles del JLPT
 
----
+El Japanese Language Proficiency Test (JLPT) es el examen oficial de competencia del idioma japonés y está dividido en cinco niveles:
 
-<br>
+- JLPT N5 (Principiante)
+- JLPT N4 (Básico)
+- JLPT N3 (Intermedio)
+- JLPT N2 (Intermedio-avanzado)
+- JLPT N1 (Avanzado)
 
-## Niveles
+En DokuGaku Nihongo encontrarás recursos gratuitos para cada uno de estos niveles, incluyendo vocabulario, gramática, kanjis, ejercicios y material de apoyo para complementar tu estudio del japonés.
 
-<br>
+## ¿Cómo empezar a estudiar japonés?
 
-En japonés, los niveles se clasifican de la siguiente manera:
+Si es tu primera vez estudiando japonés, te recomendamos seguir el siguiente orden:
 
-- N5 (Básico)
-- N4 (Básico-intermedio)
-- N3 (Intermedio)
-- N2 (Intermedio-avanzado)
-- N1 (Avanzado)
-<br>
+1. Aprender hiragana.
+2. Aprender katakana.
+3. Estudiar las bases del JLPT N5.
+4. Practicar vocabulario y gramática japonesa.
+5. Comenzar a leer textos sencillos y realizar ejercicios.
+6. Avanzar progresivamente hasta los niveles superiores del JLPT.
 
-<br>
+El hiragana y el katakana son los dos sistemas de escritura fonética fundamentales del idioma japonés. Dominar ambos te permitirá comenzar a leer palabras y frases sencillas antes de introducirte en el estudio de los kanjis.
 
----
+Posteriormente, podrás utilizar nuestros recursos del JLPT N5 para continuar tu aprendizaje mediante ejercicios, material de estudio y guías diseñadas para estudiantes autodidactas.
 
-<br>
-
-## ¿Cómo empezar a estudiar?
-
-<br>
-
-Si estás dando tus primeros pasos en el estudio del japonés y no sabes por dónde empezar, te recomendamos comenzar por aprender el **hiragana** y **katakana**. Estos sistemas de escritura fonética son esenciales y te proporcionarán una base sólida para tu viaje de aprendizaje. Una vez que te sientas cómodo con ellos, puedes aventurarte en los recursos destinados al nivel **N5**. Encontrarás una amplia variedad de material diseñado específicamente para aquellos que están dando sus primeros pasos en el idioma japonés. ¡Explora, experimenta y disfruta del proceso de aprendizaje!
-
-<br>
-<br>
+Aprender japonés es un camino que requiere constancia y práctica. Nuestro objetivo es ofrecerte las herramientas necesarias para que puedas avanzar desde el nivel más básico hasta los contenidos más avanzados del idioma de manera completamente gratuita.
 
 <div class="row justify-content-center">
     <div class="col-md-6">
-        <img width="70%" src="/img/luffy.jpeg" class="img-fluid">
+        <img width="70%" src="/img/luffy.jpeg" class="img-fluid" alt="Estudiar japonés autodidacta">
     </div>
 </div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script>
-    $(document).ready(function(){
-      $('#exampleModal').modal('show');
-    });
-    function cerrarModal() {
-      $('#exampleModal').modal('hide');
-    }
-</script>
